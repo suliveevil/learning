@@ -1,7 +1,7 @@
 # learning
 
-## math
+## Math数学
 
-## english
+## English英语
 
 ## others
